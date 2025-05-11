@@ -50,6 +50,7 @@ brew unbound
 brew unibilium
 brew usage
 brew utf8proc
+brew whalebrew
 brew xz
 
 tap homebrew/cask
