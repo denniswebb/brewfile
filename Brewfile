@@ -5,6 +5,7 @@ tap homebrew/core
 brew ca-certificates
 brew coreutils
 brew dateutils
+brew findutils
 brew fish
 brew fzf
 brew gawk
