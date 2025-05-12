@@ -57,6 +57,7 @@ brew xz
 tap homebrew/cask
 cask chatgpt
 cask datagrip
+cask firefox
 cask flycut
 cask font-jetbrains-mono-nerd-font
 cask iterm2
