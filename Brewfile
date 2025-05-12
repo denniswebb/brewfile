@@ -2,8 +2,11 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew awscli
 brew ca-certificates
+brew cffi
 brew coreutils
+brew cryptography
 brew dateutils
 brew findutils
 brew fish
@@ -16,6 +19,9 @@ brew gnu-sed
 brew gnupg
 brew gnutls
 brew grep
+brew helm
+brew kubernetes-cli
+brew kustomize
 brew libassuan
 brew libevent
 brew libgcrypt
@@ -43,6 +49,7 @@ brew p11-kit
 brew pcre2
 brew pinentry
 brew pipx
+brew pycparser
 brew python@3.13
 brew readline
 brew sqlite
