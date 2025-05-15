@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew awscli
+brew c-ares
 brew ca-certificates
 brew cffi
 brew coreutils
@@ -14,6 +15,7 @@ brew fzf
 brew gawk
 brew gettext
 brew gh
+brew glib
 brew gmp
 brew gnu-sed
 brew gnupg
@@ -28,12 +30,17 @@ brew libgcrypt
 brew libgpg-error
 brew libidn2
 brew libksba
+brew libmaxminddb
 brew libnghttp2
+brew libnghttp3
+brew libsmi
+brew libssh
 brew libtasn1
 brew libunistring
 brew libusb
 brew libuv
 brew lpeg
+brew lua
 brew luajit
 brew luv
 brew mas
@@ -52,6 +59,7 @@ brew pipx
 brew pycparser
 brew python@3.13
 brew readline
+brew speexdsp
 brew sqlite
 brew tree-sitter
 brew unbound
@@ -59,7 +67,9 @@ brew unibilium
 brew usage
 brew utf8proc
 brew whalebrew
+brew wireshark
 brew xz
+brew yq
 
 tap homebrew/cask
 cask chatgpt
@@ -75,6 +85,9 @@ cask ticktick
 
 tap buo/cask-upgrade
 
+tap grdl/tap
+brew git-get
+
 tap nikitabobko/tap
 cask aerospace
 
@@ -82,5 +95,6 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 1543686606 Delinea Web Password Filler (3.11.5)
 appstore 985367838 Microsoft Outlook (16.96.2)
 appstore 1295203466 Windows App (11.1.5)
