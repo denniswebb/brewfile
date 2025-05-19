@@ -3,9 +3,9 @@
 
 tap homebrew/core
 brew awscli
-brew c-ares
 brew ca-certificates
 brew cffi
+brew chezmoi
 brew coreutils
 brew cryptography
 brew dateutils
@@ -15,7 +15,6 @@ brew fzf
 brew gawk
 brew gettext
 brew gh
-brew glib
 brew gmp
 brew gnu-sed
 brew gnupg
@@ -30,17 +29,12 @@ brew libgcrypt
 brew libgpg-error
 brew libidn2
 brew libksba
-brew libmaxminddb
 brew libnghttp2
-brew libnghttp3
-brew libsmi
-brew libssh
 brew libtasn1
 brew libunistring
 brew libusb
 brew libuv
 brew lpeg
-brew lua
 brew luajit
 brew luv
 brew mas
@@ -59,7 +53,6 @@ brew pipx
 brew pycparser
 brew python@3.13
 brew readline
-brew speexdsp
 brew sqlite
 brew tree-sitter
 brew unbound
@@ -67,7 +60,6 @@ brew unibilium
 brew usage
 brew utf8proc
 brew whalebrew
-brew wireshark
 brew xz
 brew yq
 
@@ -80,8 +72,10 @@ cask font-jetbrains-mono-nerd-font
 cask iterm2
 cask itermai
 cask keepingyouawake
+cask orbstack
 cask shottr
 cask ticktick
+cask wireshark
 
 tap buo/cask-upgrade
 
