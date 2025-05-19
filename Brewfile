@@ -87,6 +87,7 @@ brew libxdmcp
 brew libxext
 brew libxrender
 brew little-cms2
+brew llvm
 brew llvm@19
 brew lpeg
 brew luajit
@@ -148,6 +149,7 @@ brew xorgproto
 brew xvid
 brew xz
 brew yt-dlp
+brew z3
 brew zeromq
 brew zimg
 brew zstd
