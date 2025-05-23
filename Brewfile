@@ -29,9 +29,13 @@ brew graphite2
 brew grep
 brew harfbuzz
 brew helm
+brew hub
 brew icu4c@77
 brew jpeg-turbo
+brew k8sgpt
+brew kube-score
 brew kubernetes-cli
+brew kubescape
 brew kustomize
 brew libassuan
 brew libevent
@@ -66,6 +70,7 @@ brew ncurses
 brew neovim
 brew nettle
 brew npth
+brew ollama
 brew openjdk
 brew openssl@3
 brew p11-kit
@@ -98,6 +103,7 @@ cask iterm2
 cask itermai
 cask keepingyouawake
 cask orbstack
+cask raycast
 cask shottr
 cask ticktick
 cask wireshark
