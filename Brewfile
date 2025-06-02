@@ -2,7 +2,10 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew aicommits
 brew awscli
+brew brotli
+brew c-ares
 brew ca-certificates
 brew cairo
 brew cffi
@@ -69,6 +72,7 @@ brew mpfr
 brew ncurses
 brew neovim
 brew nettle
+brew node
 brew npth
 brew ollama
 brew openjdk
@@ -82,6 +86,7 @@ brew pycparser
 brew python@3.13
 brew readline
 brew sqlite
+brew tflint
 brew tree-sitter
 brew unbound
 brew unibilium
@@ -96,12 +101,14 @@ brew zstd
 tap homebrew/cask
 cask chatgpt
 cask datagrip
+cask drawio
 cask firefox
 cask flycut
 cask font-jetbrains-mono-nerd-font
 cask iterm2
 cask itermai
 cask keepingyouawake
+cask kubernetic
 cask orbstack
 cask raycast
 cask shottr
@@ -124,4 +131,5 @@ tap stefansundin/tap
 # App Store applications
 appstore 1543686606 Delinea Web Password Filler (3.11.5)
 appstore 985367838 Microsoft Outlook (16.96.2)
-appstore 1295203466 Windows App (11.1.6)
+appstore 6738274497 Raycast Companion (1.1.0)
+appstore 1295203466 Windows App (11.1.7)
