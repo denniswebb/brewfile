@@ -36,10 +36,13 @@ brew hub
 brew icu4c@77
 brew jpeg-turbo
 brew k8sgpt
+brew krb5
 brew kube-score
+brew kubeconform
 brew kubernetes-cli
 brew kubescape
 brew kustomize
+brew ldcli
 brew libassuan
 brew libevent
 brew libgcrypt
@@ -59,6 +62,7 @@ brew libxcb
 brew libxdmcp
 brew libxext
 brew libxrender
+brew libyaml
 brew little-cms2
 brew lpeg
 brew luajit
@@ -82,24 +86,33 @@ brew pcre2
 brew pinentry
 brew pipx
 brew pixman
+brew postgresql@14
 brew pycparser
 brew python@3.13
 brew readline
+brew repomix
 brew sqlite
+brew stern
 brew tflint
 brew tree-sitter
 brew unbound
 brew unibilium
 brew usage
 brew utf8proc
+brew vault
+brew vault-cli
+brew velero
 brew whalebrew
 brew xorgproto
 brew xz
+brew yamllint
 brew yq
 brew zstd
 
 tap homebrew/cask
 cask chatgpt
+cask claude
+cask dangerzone
 cask datagrip
 cask drawio
 cask firefox
@@ -120,6 +133,10 @@ tap buo/cask-upgrade
 tap grdl/tap
 brew git-get
 
+tap hashicorp/tap
+
+tap launchdarkly/tap
+
 tap nikitabobko/tap
 cask aerospace
 
@@ -131,5 +148,5 @@ tap stefansundin/tap
 # App Store applications
 appstore 1543686606 Delinea Web Password Filler (3.11.5)
 appstore 985367838 Microsoft Outlook (16.96.2)
-appstore 6738274497 Raycast Companion (1.1.0)
+appstore 6738274497 Raycast Companion (1.1.1)
 appstore 1295203466 Windows App (11.1.7)
