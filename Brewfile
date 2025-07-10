@@ -14,6 +14,7 @@ brew coreutils
 brew cryptography
 brew dateutils
 brew docker-credential-helper-ecr
+brew dos2unix
 brew findutils
 brew fish
 brew fontconfig
@@ -91,6 +92,7 @@ brew pycparser
 brew python@3.13
 brew readline
 brew repomix
+brew ripgrep
 brew sqlite
 brew stern
 brew tflint
@@ -126,6 +128,7 @@ cask orbstack
 cask raycast
 cask shottr
 cask ticktick
+cask visual-studio-code
 cask wireshark
 
 tap buo/cask-upgrade
