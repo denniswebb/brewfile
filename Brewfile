@@ -128,7 +128,6 @@ cask iterm2
 cask itermai
 cask keepingyouawake
 cask kubernetic
-cask logseq
 cask obsidian
 cask orbstack
 cask raycast
