@@ -128,11 +128,11 @@ cask iterm2
 cask itermai
 cask keepingyouawake
 cask kubernetic
-cask logseq
 cask obsidian
 cask orbstack
 cask raycast
 cask shottr
+cask soulseek
 cask ticktick
 cask visual-studio-code
 cask wireshark
@@ -155,9 +155,9 @@ brew brew-file
 tap stefansundin/tap
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.9.11)
 appstore 1569813296 1Password for Safari (8.10.82)
+appstore 1333542190 1Password 7 (7.9.11)
 appstore 1352778147 Bitwarden (2025.7.0)
-appstore 1543686606 Delinea Web Password Filler (3.11.6)
+appstore 1543686606 Delinea Web Password Filler (3.11.7)
 appstore 985367838 Microsoft Outlook (16.99.2)
 appstore 1295203466 Windows App (11.1.5)
