@@ -161,3 +161,4 @@ appstore 1543686606 Delinea Web Password Filler (3.11.5)
 appstore 985367838 Microsoft Outlook (16.96.2)
 appstore 6738274497 Raycast Companion (1.1.1)
 appstore 1295203466 Windows App (11.1.7)
+
