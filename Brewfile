@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew act
 brew aicommits
 brew awscli
 brew brotli
@@ -19,6 +20,7 @@ brew fontconfig
 brew freetype
 brew fzf
 brew gawk
+brew gemini-cli
 brew gettext
 brew gh
 brew giflib
@@ -118,12 +120,14 @@ cask chatgpt
 cask claude
 cask dangerzone
 cask datagrip
+cask discord
 cask drawio
 cask firefox
 cask flycut
 cask font-jetbrains-mono-nerd-font
 cask iterm2
 cask itermai
+cask jmc
 cask keepingyouawake
 cask kubernetic
 cask orbstack
