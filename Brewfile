@@ -128,11 +128,11 @@ cask iterm2
 cask itermai
 cask keepingyouawake
 cask kubernetic
-cask logseq
 cask obsidian
 cask orbstack
 cask raycast
 cask shottr
+cask soulseek
 cask ticktick
 cask visual-studio-code
 cask wireshark
