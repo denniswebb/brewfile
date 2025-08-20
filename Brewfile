@@ -4,12 +4,14 @@
 tap homebrew/core
 brew act
 brew aicommits
+brew argocd
 brew awscli
 brew brotli
 brew c-ares
 brew ca-certificates
 brew cairo
 brew chezmoi
+brew colordiff
 brew coreutils
 brew dateutils
 brew docker-credential-helper-ecr
