@@ -136,6 +136,7 @@ cask itermai
 cask jmc
 cask keepingyouawake
 cask kubernetic
+cask lm-studio
 cask orbstack
 cask raycast
 cask shottr
