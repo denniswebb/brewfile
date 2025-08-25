@@ -109,6 +109,7 @@ brew unbound
 brew unibilium
 brew usage
 brew utf8proc
+brew uvwasi
 brew vault
 brew vault-cli
 brew velero
@@ -161,7 +162,7 @@ tap stefansundin/tap
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.9.11)
-appstore 1569813296 1Password for Safari (8.10.82)
+appstore 1569813296 1Password for Safari (8.11.7)
 appstore 1352778147 Bitwarden (2025.7.0)
 appstore 1543686606 Delinea Web Password Filler (3.11.7)
 appstore 640199958 Developer (10.8.2)
