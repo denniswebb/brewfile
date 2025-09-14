@@ -15,6 +15,8 @@ brew cocoapods
 brew colordiff
 brew coreutils
 brew dateutils
+brew docker
+brew docker-completion
 brew docker-credential-helper-ecr
 brew dos2unix
 brew findutils
@@ -138,10 +140,8 @@ cask jmc
 cask keepingyouawake
 cask kubernetic
 cask lm-studio
-cask orbstack
 cask raycast
 cask shottr
-cask ticktick
 cask visual-studio-code
 cask wireshark
 
@@ -163,8 +163,8 @@ brew brew-file
 tap stefansundin/tap
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.9.11)
 appstore 1569813296 1Password for Safari (8.11.8)
+appstore 1333542190 1Password 7 (7.9.11)
 appstore 1352778147 Bitwarden (2025.8.2)
 appstore 1543686606 Delinea Web Password Filler (3.11.8)
 appstore 640199958 Developer (10.8.3)
