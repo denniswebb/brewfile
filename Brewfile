@@ -17,7 +17,6 @@ brew coreutils
 brew dateutils
 brew docker
 brew docker-completion
-brew docker-compose
 brew docker-credential-helper-ecr
 brew dos2unix
 brew findutils
@@ -107,7 +106,6 @@ brew simdjson
 brew sqlite
 brew stern
 brew tflint
-brew theora
 brew tree
 brew tree-sitter
 brew unbound
@@ -141,11 +139,11 @@ cask itermai
 cask jmc
 cask keepingyouawake
 cask kubernetic
-cask obsidian
 cask lm-studio
+cask ngrok
+cask obsidian
 cask raycast
 cask shottr
-cask ticktick
 cask visual-studio-code
 cask wireshark
 
@@ -167,14 +165,14 @@ brew brew-file
 tap stefansundin/tap
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.9.11)
 appstore 1569813296 1Password for Safari (8.11.9)
+appstore 1333542190 1Password 7 (7.9.11)
 appstore 1352778147 Bitwarden (2025.8.2)
+appstore 6738511300 Copilot (23.4.430911001)
 appstore 1543686606 Delinea Web Password Filler (3.11.8)
 appstore 640199958 Developer (10.8.3)
 appstore 985367838 Microsoft Outlook (16.100.4)
-appstore 6714467650 Perplexity (2.250818.0)
 appstore 6738274497 Raycast Companion (1.2.0)
 appstore 899247664 TestFlight (3.9.0)
-appstore 1295203466 Windows App (11.1.5)
+appstore 1295203466 Windows App (11.1.7)
 appstore 497799835 Xcode (26.0)
