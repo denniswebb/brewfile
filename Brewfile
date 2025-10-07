@@ -178,6 +178,7 @@ brew zimg
 brew zstd
 
 tap homebrew/cask
+cask amazon-q
 cask chatgpt
 cask claude
 cask claude-code
