@@ -13,6 +13,7 @@ brew ca-certificates
 brew cairo
 brew chezmoi
 brew cocoapods
+brew codex
 brew colordiff
 brew coreutils
 brew dateutils
