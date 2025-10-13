@@ -92,7 +92,6 @@ brew neovim
 brew nettle
 brew node
 brew npth
-brew ollama
 brew openjdk
 brew openssl@3
 brew p11-kit
