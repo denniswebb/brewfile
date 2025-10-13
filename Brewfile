@@ -13,7 +13,6 @@ brew ca-certificates
 brew cairo
 brew chezmoi
 brew cocoapods
-brew codex
 brew colordiff
 brew coreutils
 brew dateutils
@@ -92,6 +91,7 @@ brew neovim
 brew nettle
 brew node
 brew npth
+brew ollama
 brew openjdk
 brew openssl@3
 brew p11-kit
