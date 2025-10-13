@@ -6,6 +6,7 @@ brew act
 brew aicommits
 brew argocd
 brew awscli
+brew bash
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -50,6 +51,7 @@ brew kubeconform
 brew kubernetes-cli
 brew kubescape
 brew kustomize
+brew lazygit
 brew ldcli
 brew libassuan
 brew libevent
@@ -84,6 +86,7 @@ brew mise
 brew mpdecimal
 brew mpfr
 brew mpg123
+brew ncurses
 brew neovim
 brew nettle
 brew node
@@ -118,6 +121,7 @@ brew utf8proc
 brew uvwasi
 brew vault-cli
 brew velero
+brew watch
 brew wget
 brew whalebrew
 brew xorgproto
@@ -151,6 +155,9 @@ cask shottr
 cask visual-studio-code
 cask wireshark
 
+tap argoproj/tap
+brew kubectl-argo-rollouts
+
 tap atlassian/acli
 brew acli
 
@@ -176,14 +183,12 @@ brew brew-file
 tap stefansundin/tap
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.9.11)
-appstore 1569813296 1Password for Safari (8.11.12)
 appstore 1352778147 Bitwarden (2025.9.0)
 appstore 6738511300 Copilot (23.6.430928001)
 appstore 1543686606 Delinea Web Password Filler (3.11.8)
 appstore 640199958 Developer (10.8.3)
 appstore 985367838 Microsoft Outlook (16.101.3)
 appstore 6738274497 Raycast Companion (1.2.0)
-appstore 899247664 TestFlight (3.9.0)
-appstore 1295203466 Windows App (11.1.5)
+appstore 899247664 TestFlight (4.0.1)
+appstore 1295203466 Windows App (11.2.4)
 appstore 497799835 Xcode (26.0.1)
