@@ -232,11 +232,11 @@ tap stefansundin/tap
 brew codex
 
 # App Store applications
-appstore 1352778147 Bitwarden (2025.9.0)
-appstore 6738511300 Copilot (23.6.430928001)
+appstore 1352778147 Bitwarden (2025.10.0)
+appstore 6738511300 Copilot (23.8.431015005)
 appstore 1543686606 Delinea Web Password Filler (3.11.8)
 appstore 640199958 Developer (10.8.3)
-appstore 985367838 Microsoft Outlook (16.101.3)
+appstore 985367838 Microsoft Outlook (16.102.1)
 appstore 6738274497 Raycast Companion (1.2.0)
 appstore 899247664 TestFlight (4.0.1)
 appstore 1295203466 Windows App (11.2.4)
