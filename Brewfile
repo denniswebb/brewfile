@@ -7,7 +7,6 @@ brew aom
 brew argocd
 brew aribb24
 brew awscli
-brew bash
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -43,8 +42,6 @@ brew gmp
 brew gnu-sed
 brew gnupg
 brew gnutls
-brew go
-brew golangci-lint
 brew graphite2
 brew grep
 brew harfbuzz
@@ -65,7 +62,6 @@ brew kubernetes-cli
 brew kubescape
 brew kustomize
 brew lame
-brew lazygit
 brew ldcli
 brew leptonica
 brew libarchive
@@ -126,6 +122,7 @@ brew neovim
 brew nettle
 brew node
 brew npth
+brew ollama
 brew opencore-amr
 brew openexr
 brew openjdk
@@ -167,9 +164,7 @@ brew utf8proc
 brew uvwasi
 brew vault-cli
 brew velero
-brew watch
 brew webp
-brew wget
 brew whalebrew
 brew x264
 brew x265
@@ -237,11 +232,11 @@ brew codex
 
 # App Store applications
 appstore 1352778147 Bitwarden (2025.10.0)
-appstore 6738511300 Copilot (23.9.431024003)
+appstore 6738511300 Copilot (23.8.431015005)
 appstore 1543686606 Delinea Web Password Filler (3.11.8)
 appstore 640199958 Developer (10.8.3)
 appstore 6443843900 iBar (2.0.2)
-appstore 985367838 Microsoft Outlook (16.102.2)
+appstore 985367838 Microsoft Outlook (16.102.1)
 appstore 6738274497 Raycast Companion (1.2.0)
 appstore 899247664 TestFlight (4.0.1)
 appstore 1295203466 Windows App (11.2.4)
