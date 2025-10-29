@@ -8,6 +8,7 @@ brew aom
 brew argocd
 brew aribb24
 brew awscli
+brew bash
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -43,6 +44,8 @@ brew gmp
 brew gnu-sed
 brew gnupg
 brew gnutls
+brew go
+brew golangci-lint
 brew graphite2
 brew grep
 brew harfbuzz
@@ -63,6 +66,7 @@ brew kubernetes-cli
 brew kubescape
 brew kustomize
 brew lame
+brew lazygit
 brew ldcli
 brew leptonica
 brew libarchive
@@ -123,7 +127,6 @@ brew neovim
 brew nettle
 brew node
 brew npth
-brew ollama
 brew opencore-amr
 brew openexr
 brew openjdk
@@ -165,7 +168,9 @@ brew utf8proc
 brew uvwasi
 brew vault-cli
 brew velero
+brew watch
 brew webp
+brew wget
 brew whalebrew
 brew x264
 brew x265
