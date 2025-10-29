@@ -3,7 +3,6 @@
 
 tap homebrew/core
 brew act
-brew aicommits
 brew aom
 brew argocd
 brew aribb24
@@ -237,7 +236,6 @@ tap stefansundin/tap
 brew codex
 
 # App Store applications
-appstore 1548711022 Barbee (4.1.2)
 appstore 1352778147 Bitwarden (2025.10.0)
 appstore 6738511300 Copilot (23.9.431024003)
 appstore 1543686606 Delinea Web Password Filler (3.11.8)
