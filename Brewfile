@@ -145,6 +145,7 @@ brew pipx
 brew pixman
 brew pnpm
 brew postgresql@14
+brew pydantic-core
 brew python@3.13
 brew python@3.14
 brew rav1e
@@ -248,5 +249,5 @@ appstore 6443843900 iBar (2.0.2)
 appstore 985367838 Microsoft Outlook (16.102.2)
 appstore 6738274497 Raycast Companion (1.2.0)
 appstore 899247664 TestFlight (4.0.1)
-appstore 1295203466 Windows App (11.2.4)
+appstore 1295203466 Windows App (11.2.7)
 appstore 497799835 Xcode (26.0.1)
