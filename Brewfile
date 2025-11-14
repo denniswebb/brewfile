@@ -52,6 +52,7 @@ brew helm
 brew highway
 brew hub
 brew icu4c@77
+brew icu4c@78
 brew imath
 brew isl
 brew jadx
@@ -189,7 +190,6 @@ brew zimg
 brew zstd
 
 tap homebrew/cask
-cask browseros
 cask chatgpt
 cask claude
 cask claude-code
