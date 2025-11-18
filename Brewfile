@@ -212,7 +212,6 @@ cask shottr
 cask ticktick
 cask visual-studio-code
 cask warp
-cask wireshark
 
 tap argoproj/tap
 brew kubectl-argo-rollouts
