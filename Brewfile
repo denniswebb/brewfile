@@ -190,6 +190,7 @@ brew zimg
 brew zstd
 
 tap homebrew/cask
+cask browseros
 cask chatgpt
 cask claude
 cask claude-code
@@ -212,6 +213,7 @@ cask shottr
 cask ticktick
 cask visual-studio-code
 cask warp
+cask wireshark-app
 
 tap argoproj/tap
 brew kubectl-argo-rollouts
@@ -253,5 +255,5 @@ appstore 6443843900 iBar (2.0.2)
 appstore 985367838 Microsoft Outlook (16.102.3)
 appstore 6738274497 Raycast Companion (1.2.0)
 appstore 899247664 TestFlight (4.0.1)
-appstore 1295203466 Windows App (11.2.7)
+appstore 1295203466 Windows App (11.2.8)
 appstore 497799835 Xcode (26.1)
