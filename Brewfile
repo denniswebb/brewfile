@@ -119,6 +119,7 @@ brew lz4
 brew lzo
 brew mas
 brew mbedtls
+brew mbedtls@3
 brew minio-mc
 brew mise
 brew mpdecimal
