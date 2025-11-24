@@ -176,6 +176,7 @@ brew utf8proc
 brew uvwasi
 brew vault-cli
 brew velero
+brew watch
 brew webp
 brew whalebrew
 brew x264
@@ -190,10 +191,11 @@ brew zimg
 brew zstd
 
 tap homebrew/cask
-cask browseros
+cask antigravity
 cask chatgpt
 cask claude
 cask claude-code
+cask codex
 cask dangerzone
 cask datagrip
 cask discord
@@ -213,7 +215,6 @@ cask shottr
 cask ticktick
 cask visual-studio-code
 cask warp
-cask wireshark-app
 
 tap argoproj/tap
 brew kubectl-argo-rollouts
@@ -243,9 +244,6 @@ brew brew-file
 
 tap stefansundin/tap
 
-# Other Homebrew packages
-brew codex
-
 # App Store applications
 appstore 1352778147 Bitwarden (2025.10.0)
 appstore 6738511300 Copilot (24.0.431030001)
@@ -255,5 +253,5 @@ appstore 6443843900 iBar (2.0.2)
 appstore 985367838 Microsoft Outlook (16.102.3)
 appstore 6738274497 Raycast Companion (1.2.0)
 appstore 899247664 TestFlight (4.0.1)
-appstore 1295203466 Windows App (11.2.8)
+appstore 1295203466 Windows App (11.2.9)
 appstore 497799835 Xcode (26.1)
