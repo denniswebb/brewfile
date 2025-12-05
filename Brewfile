@@ -12,12 +12,14 @@ brew c-ares
 brew ca-certificates
 brew cairo
 brew certifi
+brew cffi
 brew checkov
 brew chezmoi
 brew cjson
 brew cocoapods
 brew colordiff
 brew coreutils
+brew cryptography
 brew dateutils
 brew dav1d
 brew docker
@@ -56,6 +58,8 @@ brew icu4c@78
 brew imath
 brew isl
 brew jadx
+brew jira-cli
+brew jiratui
 brew jpeg-turbo
 brew jpeg-xl
 brew k8sgpt
@@ -72,6 +76,7 @@ brew leptonica
 brew libarchive
 brew libass
 brew libassuan
+brew libavif
 brew libb2
 brew libbluray
 brew libdeflate
@@ -79,7 +84,9 @@ brew libevent
 brew libgcrypt
 brew libgpg-error
 brew libidn2
+brew libimagequant
 brew libksba
+brew libmagic
 brew libmicrohttpd
 brew libmpc
 brew libnghttp2
@@ -87,6 +94,7 @@ brew libnghttp3
 brew libngtcp2
 brew libogg
 brew libpng
+brew libraqm
 brew librist
 brew libsamplerate
 brew libsndfile
@@ -143,11 +151,13 @@ brew opus
 brew p11-kit
 brew pango
 brew pcre2
+brew pillow
 brew pinentry
 brew pipx
 brew pixman
 brew pnpm
 brew postgresql@14
+brew pycparser
 brew pydantic-core
 brew python@3.13
 brew python@3.14
@@ -169,6 +179,7 @@ brew svt-av1
 brew tesseract
 brew tflint
 brew theora
+brew tree
 brew tree-sitter
 brew unbound
 brew unibilium
