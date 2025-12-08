@@ -50,7 +50,7 @@ brew gnutls
 brew graphite2
 brew grep
 brew harfbuzz
-brew helm
+brew helm@3
 brew highway
 brew hub
 brew icu4c@77
