@@ -181,6 +181,7 @@ brew tflint
 brew theora
 brew tree
 brew tree-sitter
+brew tree-sitter@0.25
 brew unbound
 brew unibilium
 brew usage
