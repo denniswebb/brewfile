@@ -256,6 +256,9 @@ brew brew-file
 
 tap stefansundin/tap
 
+tap terrakube-io/cli
+brew terrakube
+
 # App Store applications
 appstore 1352778147 Bitwarden (2025.10.0)
 appstore 6738511300 Copilot (24.0.431030001)
