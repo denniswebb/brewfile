@@ -16,6 +16,7 @@ brew cffi
 brew checkov
 brew chezmoi
 brew cjson
+brew claude-squad
 brew cocoapods
 brew colordiff
 brew coreutils
@@ -179,8 +180,8 @@ brew svt-av1
 brew tesseract
 brew tflint
 brew theora
+brew tmux
 brew tree
-brew tree-sitter
 brew tree-sitter@0.25
 brew unbound
 brew unibilium
@@ -256,6 +257,9 @@ tap rcmdnk/file
 brew brew-file
 
 tap stefansundin/tap
+
+tap steveyegge/beads
+brew bd
 
 tap terrakube-io/cli
 brew terrakube
