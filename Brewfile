@@ -43,6 +43,7 @@ brew gemini-cli
 brew gettext
 brew gh
 brew giflib
+brew git-get
 brew glib
 brew gmp
 brew gnu-sed
@@ -238,7 +239,6 @@ tap atlassian/acli
 tap buo/cask-upgrade
 
 tap grdl/tap
-brew git-get
 
 tap hashicorp/tap
 brew vault
