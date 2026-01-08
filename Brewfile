@@ -222,6 +222,7 @@ cask iterm2
 cask itermai
 cask jmc
 cask keepingyouawake
+cask kitty
 cask kubernetic
 cask lm-studio
 cask obsidian
@@ -230,6 +231,7 @@ cask shottr
 cask ticktick
 cask visual-studio-code
 cask warp
+cask wave
 
 tap argoproj/tap
 brew kubectl-argo-rollouts
