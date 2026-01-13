@@ -7,6 +7,7 @@ brew aom
 brew argocd
 brew aribb24
 brew awscli
+brew bats-core
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -135,6 +136,7 @@ brew mise
 brew mpdecimal
 brew mpfr
 brew mpg123
+brew mprocs
 brew ncurses
 brew neovim
 brew nettle
@@ -143,6 +145,7 @@ brew npth
 brew numpy
 brew ollama
 brew openblas
+brew opencode
 brew opencore-amr
 brew openexr
 brew openjdk
@@ -159,6 +162,7 @@ brew pipx
 brew pixman
 brew pnpm
 brew postgresql@14
+brew postgresql@16
 brew pycparser
 brew pydantic-core
 brew python@3.13
@@ -171,6 +175,7 @@ brew rpds-py
 brew rubberband
 brew ruby
 brew sdl2
+brew shellcheck
 brew simdjson
 brew snappy
 brew speex
@@ -211,6 +216,7 @@ cask chatgpt
 cask claude
 cask claude-code
 cask codex
+cask copilot-cli
 cask dangerzone
 cask datagrip
 cask discord
@@ -218,6 +224,9 @@ cask drawio
 cask firefox
 cask flycut
 cask font-jetbrains-mono-nerd-font
+cask font-recursive
+cask font-recursive-code
+cask font-recursive-mono-nerd-font
 cask iterm2
 cask itermai
 cask jmc
@@ -253,7 +262,6 @@ tap jeeftor/tap
 tap launchdarkly/tap
 
 tap nikitabobko/tap
-cask aerospace
 
 tap rcmdnk/file
 brew brew-file
@@ -275,5 +283,5 @@ appstore 6443843900 iBar (2.0.2)
 appstore 985367838 Microsoft Outlook (16.102.3)
 appstore 6738274497 Raycast Companion (1.2.0)
 appstore 899247664 TestFlight (4.0.1)
-appstore 1295203466 Windows App (11.3.0)
+appstore 1295203466 Windows App (11.3.1)
 appstore 497799835 Xcode (26.1)
