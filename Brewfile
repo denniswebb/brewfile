@@ -3,10 +3,12 @@
 
 tap homebrew/core
 brew act
+brew ada-url
 brew aom
 brew argocd
 brew aribb24
 brew awscli
+brew bash
 brew bats-core
 brew brotli
 brew c-ares
@@ -24,6 +26,7 @@ brew coreutils
 brew cryptography
 brew dateutils
 brew dav1d
+brew direnv
 brew docker
 brew docker-completion
 brew docker-compose
@@ -33,6 +36,7 @@ brew ffmpeg
 brew findutils
 brew fish
 brew flac
+brew fmt
 brew fontconfig
 brew freetype
 brew frei0r
@@ -50,9 +54,14 @@ brew gmp
 brew gnu-sed
 brew gnupg
 brew gnutls
+brew go
+brew gopls
+brew granted
 brew graphite2
 brew grep
+brew hadolint
 brew harfbuzz
+brew hdrhistogram_c
 brew helm@3
 brew highway
 brew hub
@@ -61,6 +70,7 @@ brew icu4c@78
 brew imath
 brew isl
 brew jadx
+brew jdtls
 brew jira-cli
 brew jiratui
 brew jpeg-turbo
@@ -82,6 +92,7 @@ brew libassuan
 brew libavif
 brew libb2
 brew libbluray
+brew libdatrie
 brew libdeflate
 brew libevent
 brew libgcrypt
@@ -96,6 +107,7 @@ brew libnghttp2
 brew libnghttp3
 brew libngtcp2
 brew libogg
+brew libomp
 brew libpng
 brew libraqm
 brew librist
@@ -105,6 +117,7 @@ brew libsodium
 brew libsoxr
 brew libssh
 brew libtasn1
+brew libthai
 brew libtiff
 brew libudfread
 brew libunibreak
@@ -123,6 +136,7 @@ brew libxext
 brew libxrender
 brew libyaml
 brew little-cms2
+brew llhttp
 brew lpeg
 brew luajit
 brew luv
@@ -133,6 +147,8 @@ brew mbedtls
 brew mbedtls@3
 brew minio-mc
 brew mise
+brew mlx
+brew mlx-c
 brew mpdecimal
 brew mpfr
 brew mpg123
@@ -160,11 +176,13 @@ brew pillow
 brew pinentry
 brew pipx
 brew pixman
+brew playwright-cli
 brew pnpm
 brew postgresql@14
 brew postgresql@16
 brew pycparser
 brew pydantic-core
+brew pyright
 brew python@3.13
 brew python@3.14
 brew rav1e
@@ -183,12 +201,15 @@ brew sqlite
 brew srt
 brew stern
 brew svt-av1
+brew syncthing
 brew tesseract
 brew tflint
 brew theora
 brew tmux
 brew tree
 brew tree-sitter@0.25
+brew typescript
+brew typescript-language-server
 brew unbound
 brew unibilium
 brew usage
@@ -208,6 +229,7 @@ brew yamllint
 brew yq
 brew zeromq
 brew zimg
+brew zoxide
 brew zstd
 
 tap homebrew/cask
@@ -227,6 +249,7 @@ cask font-jetbrains-mono-nerd-font
 cask font-recursive
 cask font-recursive-code
 cask font-recursive-mono-nerd-font
+cask intellij-idea
 cask iterm2
 cask itermai
 cask jmc
@@ -238,6 +261,7 @@ cask obsidian
 cask raycast
 cask shottr
 cask ticktick
+cask utm
 cask visual-studio-code
 cask warp
 cask wave
@@ -248,6 +272,13 @@ brew kubectl-argo-rollouts
 tap atlassian/acli
 
 tap buo/cask-upgrade
+
+tap celsiusnarhwal/htt
+
+tap common-fate/granted
+
+tap cutzenfriend/cmdg
+brew cmdg
 
 tap grdl/tap
 
@@ -275,13 +306,14 @@ tap terrakube-io/cli
 brew terrakube
 
 # App Store applications
-appstore 1352778147 Bitwarden (2025.10.0)
-appstore 6738511300 Copilot (24.0.431030001)
+appstore 1352778147 Bitwarden (2025.12.0)
+appstore 6738511300 Copilot (25.3.440206001)
 appstore 1543686606 Delinea Web Password Filler (3.11.8)
 appstore 640199958 Developer (10.8.3)
-appstore 6443843900 iBar (2.0.2)
-appstore 985367838 Microsoft Outlook (16.102.3)
+appstore 6443843900 iBar (2.0.6)
+appstore 1629008763 Little Snitch Mini (1.9)
+appstore 985367838 Microsoft Outlook (16.105.3)
 appstore 6738274497 Raycast Companion (1.2.0)
-appstore 899247664 TestFlight (4.0.1)
-appstore 1295203466 Windows App (11.3.1)
-appstore 497799835 Xcode (26.1)
+appstore 899247664 TestFlight (4.1.0)
+appstore 1295203466 Windows App (11.3.3)
+appstore 497799835 Xcode (26.2)
