@@ -147,8 +147,6 @@ brew mbedtls
 brew mbedtls@3
 brew minio-mc
 brew mise
-brew mlx
-brew mlx-c
 brew mpdecimal
 brew mpfr
 brew mpg123
@@ -159,7 +157,6 @@ brew nettle
 brew node
 brew npth
 brew numpy
-brew ollama
 brew openblas
 brew opencode
 brew opencore-amr
